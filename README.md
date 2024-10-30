@@ -1,4 +1,4 @@
-#**WORD COUNTER**
+# **WORD COUNTER**
 
 An extension for Google Docs that can count all words including footnotes (which google docs does not do).
 
